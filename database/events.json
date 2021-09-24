@@ -3,14 +3,15 @@
         {
             "id": 1,
             "cod_event": "118622", 
-            "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
+            "name": "NAC HB Folheteria QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "date_start": 1631467042677,
             "date_end": 1631726242677,
             "date_import": 1631207842677,
             "sla": "3",
             "status": "aberto",
-            "layout": false
+            "layout": false,
+            "data_layout": null
         },
         {
             "id": 2,
@@ -22,49 +23,65 @@
             "date_import": 1631726242677,
             "sla": "2",
             "status": "concluido",
-            "layout": true
+            "layout": true,
+            "data_layout": {
+                "id": 1,
+                "name": "Layout - Semana do Dia dos Pais",
+                "dt_created": 1628788625483
+            }
         },
         {
             "id": 3,
             "cod_event": "118622", 
-            "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
+            "name": "NAC HB FACEBOOK YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "date_start": 1631467042677,
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "1",
             "status": "andamento",
-            "layout": true
+            "layout": true,
+            "data_layout": {
+                "id": 1,
+                "name": "Layout - Semana do Dia dos Pais",
+                "dt_created": 1628788625483
+            }
         },
         {
             "id": 4,
             "cod_event": "118622", 
-            "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
+            "name": "VIDEO NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "date_start": 1631467042677,
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "4",
             "status": "andamento",
-            "layout": true
+            "layout": true,
+            "data_layout": {
+                "id": 1,
+                "name": "Layout - Semana do Dia dos Pais",
+                "dt_created": 1628788625483
+            }
         }
     ],
     "imports": [
         {
             "id": 1,
-            "cod_event": "118623", 
-            "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
+            "cod_event": "118622", 
+            "name": "NAC HB Folheteria QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "date_start": 1631467042677,
             "date_end": 1631726242677,
             "date_import": 1631207842677,
             "sla": "3",
             "status": "aberto",
-            "layout": false
+            "layout": false,
+            "data_layout": null
         },
         {
             "id": 2,
-            "cod_event": "118624", 
+            "cod_event": "118623", 
             "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Youtube",
             "date_start": 1631467042677,
@@ -72,31 +89,34 @@
             "date_import": 1631726242677,
             "sla": "2",
             "status": "concluido",
-            "layout": true
+            "layout": false,
+            "data_layout": null
         },
         {
             "id": 3,
-            "cod_event": "118625", 
-            "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
+            "cod_event": "118624", 
+            "name": "NAC HB FACEBOOK YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "date_start": 1631467042677,
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "1",
             "status": "andamento",
-            "layout": true
+            "layout": false,
+            "data_layout": null
         },
         {
             "id": 4,
-            "cod_event": "118626", 
-            "name": "NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
+            "cod_event": "118625", 
+            "name": "VIDEO NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "date_start": 1631467042677,
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "4",
             "status": "andamento",
-            "layout": true
+            "layout": false,
+            "data_layout": null
         }
     ],
     "layout": [
