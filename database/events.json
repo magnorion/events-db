@@ -22,7 +22,7 @@
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "2",
-            "status": "concluido",
+            "status": "Concluído",
             "layout": true,
             "data_layout": {
                 "id": 1,
@@ -39,7 +39,7 @@
             "date_end": 1632255361000,
             "date_import": 1630613761000,
             "sla": "1",
-            "status": "andamento",
+            "status": "em andamento",
             "layout": true,
             "data_layout": {
                 "id": 1,
@@ -56,7 +56,7 @@
             "date_end": 1631909916000,
             "date_import": 1630613916000,
             "sla": "4",
-            "status": "andamento",
+            "status": "em andamento",
             "layout": true,
             "data_layout": {
                 "id": 1,
@@ -88,7 +88,7 @@
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "2",
-            "status": "concluido",
+            "status": "Concluído",
             "layout": false,
             "data_layout": null
         },
@@ -101,7 +101,7 @@
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "1",
-            "status": "andamento",
+            "status": "em andamento",
             "layout": false,
             "data_layout": null
         },
@@ -114,7 +114,7 @@
             "date_end": 1631726242677,
             "date_import": 1631726242677,
             "sla": "4",
-            "status": "andamento",
+            "status": "em andamento",
             "layout": false,
             "data_layout": null
         }
