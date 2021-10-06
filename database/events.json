@@ -155,5 +155,148 @@
             "name": "Layout - Black Friday",
             "dt_created": 1628788625483
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "rms": "16273809",
+            "image": "phone.png",
+            "dinamic": "Leve X Pague Y",
+            "place": "ESTD_DF",
+            "name": "Celular",
+            "primary_description": "Integral - 350ml",
+            "secoundary_description": "Tradional",
+            "price_1": 2.70,
+            "price_2": 1.49
+        },
+        {
+            "id": 2,
+            "rms": "16273809",
+            "image": "limao.png",
+            "dinamic": "De X Por Y",
+            "place": "ESTD_DF",
+            "name": "Limão",
+            "primary_description": "Limão",
+            "secoundary_description": "Limão",
+            "price_1": 1.80,
+            "price_2": 0.89
+        },
+        {
+            "id": 3,
+            "rms": "16273809",
+            "image": "manga.png",
+            "dinamic": "Oferta simples",
+            "place": "ESTD_DF",
+            "name": "Manga",
+            "primary_description": "Manga",
+            "secoundary_description": "Manga",
+            "price_1": 3.49,
+            "price_2": 1.49
+        },
+        {
+            "id": 4,
+            "rms": "16273809",
+            "image": "banana.png",
+            "dinamic": "X% de desconto na Y unidade",
+            "place": "ESTD_DF",
+            "name": "Banana",
+            "primary_description": "Banana",
+            "secoundary_description": "Banana",
+            "price_1": 7.99,
+            "price_2": 2.99
+        },
+        {
+            "id": 5,
+            "rms": "16273809",
+            "image": "iogurte.png",
+            "dinamic": "X% de desconto no grupo/categoria ",
+            "place": "ESTD_DF",
+            "name": "iogurte",
+            "primary_description": "iogurte",
+            "secoundary_description": "iogurte",
+            "price_1": 1.89,
+            "price_2": 0.49
+        },
+        {
+            "id": 6,
+            "rms": "16273809",
+            "image": "ariel.png",
+            "dinamic": "Oferta simples",
+            "place": "ESTD_DF",
+            "name": "ariel",
+            "primary_description": "ariel",
+            "secoundary_description": "limpeza",
+            "price_1": 34.99,
+            "price_2": 24.99
+        },
+        {
+            "id": 7,
+            "rms": "16273809",
+            "image": "papinha.png",
+            "dinamic": "De X Por Y",
+            "place": "ESTD_DF",
+            "name": "papinha",
+            "primary_description": "papinha",
+            "secoundary_description": "comida",
+            "price_1": 5.99,
+            "price_2": 3.49
+        },
+        {
+            "id": 8,
+            "rms": "16273809",
+            "image": "biscoito.png",
+            "dinamic": "X% de desconto no grupo/categoria ",
+            "place": "ESTD_DF",
+            "name": "biscoito",
+            "primary_description": "biscoito",
+            "secoundary_description": "biscoito",
+            "price_1": 6.49,
+            "price_2": 5.99
+        },
+        {
+            "id": 9,
+            "rms": "16273809",
+            "image": "cocacola.png",
+            "dinamic": "X% de desconto na Y unidade",
+            "place": "ESTD_DF",
+            "name": "Coca Cola",
+            "primary_description": "Coca Cola",
+            "secoundary_description": "Coca Cola",
+            "price_1": 8.49,
+            "price_2": 7.99
+        },
+        {
+            "id": 10,
+            "rms": "16273809",
+            "image": "nestle.png",
+            "dinamic": "Oferta simples",
+            "place": "ESTD_DF",
+            "name": "Nestle Iogurte",
+            "primary_description": "Nestle Iogurte",
+            "secoundary_description": "Nestle Iogurte",
+            "price_1": 4.89,
+            "price_2": 3.79
+        }
+    ],
+    "places": [
+        { "id": 1, "name": "ESTD_DF" },
+        { "id": 2, "name": "FB_BH" },
+        { "id": 3, "name": "FDS_AM" },
+        { "id": 4, "name": "FDS_CE" },
+        { "id": 5, "name": "FDS_CG" },
+        { "id": 6, "name": "FDS_CTB" },
+        { "id": 7, "name": "FDS_ES" },
+        { "id": 8, "name": "FDS_LDN" },
+        { "id": 9, "name": "FDS_PB" },
+        { "id": 10, "name": "FDS_PE" },
+        { "id": 11, "name": "FDS_RJ" },
+        { "id": 12, "name": "FDS_RN" },
+        { "id": 13, "name": "FDS_UBL" },
+        { "id": 14, "name": "HIPER_GO" },
+        { "id": 15, "name": "HIPER_RS" },
+        { "id": 16, "name": "JFO" },
+        { "id": 17, "name": "TV_PPSJP" },
+        { "id": 18, "name": "TV_RP" },
+        { "id": 19, "name": "YT_SP" }
     ]
 }
