@@ -159,7 +159,7 @@
     "products": [
         {
             "id": 1,
-            "rms": "16273809",
+            "rms": "162738001",
             "image": "phone.png",
             "dinamic": "Leve X Pague Y",
             "place": "ESTD_DF",
@@ -171,7 +171,7 @@
         },
         {
             "id": 2,
-            "rms": "16273809",
+            "rms": "162738002",
             "image": "limao.png",
             "dinamic": "De X Por Y",
             "place": "ESTD_DF",
@@ -183,7 +183,7 @@
         },
         {
             "id": 3,
-            "rms": "16273809",
+            "rms": "162738003",
             "image": "manga.png",
             "dinamic": "Oferta simples",
             "place": "ESTD_DF",
@@ -195,7 +195,7 @@
         },
         {
             "id": 4,
-            "rms": "16273809",
+            "rms": "162738004",
             "image": "banana.png",
             "dinamic": "X% de desconto na Y unidade",
             "place": "ESTD_DF",
@@ -207,7 +207,7 @@
         },
         {
             "id": 5,
-            "rms": "16273809",
+            "rms": "162738005",
             "image": "iogurte.png",
             "dinamic": "X% de desconto no grupo/categoria ",
             "place": "ESTD_DF",
@@ -219,7 +219,7 @@
         },
         {
             "id": 6,
-            "rms": "16273809",
+            "rms": "162738006",
             "image": "ariel.png",
             "dinamic": "Oferta simples",
             "place": "ESTD_DF",
@@ -231,7 +231,7 @@
         },
         {
             "id": 7,
-            "rms": "16273809",
+            "rms": "162738007",
             "image": "papinha.png",
             "dinamic": "De X Por Y",
             "place": "ESTD_DF",
@@ -243,7 +243,7 @@
         },
         {
             "id": 8,
-            "rms": "16273809",
+            "rms": "162738008",
             "image": "biscoito.png",
             "dinamic": "X% de desconto no grupo/categoria ",
             "place": "ESTD_DF",
@@ -255,7 +255,7 @@
         },
         {
             "id": 9,
-            "rms": "16273809",
+            "rms": "162738009",
             "image": "cocacola.png",
             "dinamic": "X% de desconto na Y unidade",
             "place": "ESTD_DF",
@@ -267,7 +267,7 @@
         },
         {
             "id": 10,
-            "rms": "16273809",
+            "rms": "162738010",
             "image": "nestle.png",
             "dinamic": "Oferta simples",
             "place": "ESTD_DF",
