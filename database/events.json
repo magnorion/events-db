@@ -2,7 +2,7 @@
     "events": [
         {
             "id": 1,
-            "cod_event": "118622", 
+            "cod_event": "118622",
             "name": "NAC HB Folheteria QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "status_maestro": "Precificação",
@@ -16,7 +16,7 @@
         },
         {
             "id": 2,
-            "cod_event": "118623", 
+            "cod_event": "118623",
             "name": "NAC-2 HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Youtube",
             "status_maestro": "Revisão Marketing",
@@ -34,7 +34,7 @@
         },
         {
             "id": 3,
-            "cod_event": "118624", 
+            "cod_event": "118624",
             "name": "NAC-3 HB FACEBOOK YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "status_maestro": "Revisão Marketing",
@@ -52,7 +52,7 @@
         },
         {
             "id": 4,
-            "cod_event": "118625", 
+            "cod_event": "118625",
             "name": "VIDEO NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "status_maestro": "Revisão Abastecimento / Pricing",
@@ -72,7 +72,7 @@
     "imports": [
         {
             "id": 11,
-            "cod_event": "118622", 
+            "cod_event": "118622",
             "name": "NAC HB Folheteria QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "status_maestro": "Revisão Marketing",
@@ -86,7 +86,7 @@
         },
         {
             "id": 12,
-            "cod_event": "118623", 
+            "cod_event": "118623",
             "name": "NAC-2 HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Youtube",
             "status_maestro": "Precificação",
@@ -100,7 +100,7 @@
         },
         {
             "id": 13,
-            "cod_event": "118624", 
+            "cod_event": "118624",
             "name": "NAC HB FACEBOOK YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "status_maestro": "Revisão Marketing",
@@ -114,7 +114,7 @@
         },
         {
             "id": 14,
-            "cod_event": "118625", 
+            "cod_event": "118625",
             "name": "VIDEO NAC HB YOUTUBE QUIN A DOM JULHO 5_2021",
             "type": "Folheteria",
             "status_maestro": "Revisão Marketing",
@@ -166,228 +166,212 @@
     ],
     "products": [
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 1,
-                    "rms": "162738001",
-                    "image": "phone.png",
-                    "dinamic": "Leve X Pague Y",
-                    "place": "ESTD_DF",
-                    "name": "Celular",
-                    "primary_description": "Integral - 350ml",
-                    "secoundary_description": "Tradional",
-                    "price_1": 2.70,
-                    "price_2": 1.49,
-                    "deleted": false
-                }
-            ]
+            "id": 1,
+            "rms": "162738001",
+            "image": "phone.png",
+            "dinamic": "Leve X Pague Y",
+            "place": "ESTD_DF",
+            "name": "Celular",
+            "primary_description": "Integral - 350ml",
+            "secoundary_description": "Tradional",
+            "price_1": 2.70,
+            "price_2": 1.49,
+            "deleted": false
         },
         {
-            "count": 2,
-            "isBox": true,
-            "products": [
-                {
-                    "id": 2,
-                    "rms": "162738002",
-                    "image": "limao.png",
-                    "dinamic": "De X Por Y",
-                    "place": "ESTD_DF",
-                    "name": "Limão",
-                    "primary_description": "Limão",
-                    "secoundary_description": "Limão",
-                    "price_1": 1.80,
-                    "price_2": 0.89,
-                    "deleted": false
-                },
-                {
-                    "id": 2,
-                    "rms": "162738002",
-                    "image": "limao.png",
-                    "dinamic": "De X Por Y",
-                    "place": "ESTD_DF",
-                    "name": "Limão",
-                    "primary_description": "Limão",
-                    "secoundary_description": "Limão",
-                    "price_1": 1.80,
-                    "price_2": 0.89,
-                    "deleted": false
-                }
-            ]
+            "id": 2,
+            "rms": "162738002",
+            "image": "limao.png",
+            "dinamic": "De X Por Y",
+            "place": "ESTD_DF",
+            "name": "Limão",
+            "primary_description": "Limão",
+            "secoundary_description": "Limão",
+            "price_1": 1.80,
+            "price_2": 0.89,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 3,
-                    "rms": "162738003",
-                    "image": "manga.png",
-                    "dinamic": "Oferta simples",
-                    "place": "ESTD_DF",
-                    "name": "Manga",
-                    "primary_description": "Manga",
-                    "secoundary_description": "Manga",
-                    "price_1": 3.49,
-                    "price_2": 1.49,
-                    "deleted": false
-                }
-            ]
+            "id": 3,
+            "rms": "162738003",
+            "image": "manga.png",
+            "dinamic": "Oferta simples",
+            "place": "ESTD_DF",
+            "name": "Manga",
+            "primary_description": "Manga",
+            "secoundary_description": "Manga",
+            "price_1": 3.49,
+            "price_2": 1.49,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 4,
-                    "rms": "162738004",
-                    "image": "banana.png",
-                    "dinamic": "X% de desconto na Y unidade",
-                    "place": "ESTD_DF",
-                    "name": "Banana",
-                    "primary_description": "Banana",
-                    "secoundary_description": "Banana",
-                    "price_1": 7.99,
-                    "price_2": 2.99,
-                    "deleted": false
-                }
-            ]
+            "id": 4,
+            "rms": "162738004",
+            "image": "banana.png",
+            "dinamic": "X% de desconto na Y unidade",
+            "place": "ESTD_DF",
+            "name": "Banana",
+            "primary_description": "Banana",
+            "secoundary_description": "Banana",
+            "price_1": 7.99,
+            "price_2": 2.99,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 5,
-                    "rms": "162738005",
-                    "image": "iogurte.png",
-                    "dinamic": "X% de desconto no grupo/categoria ",
-                    "place": "ESTD_DF",
-                    "name": "iogurte",
-                    "primary_description": "iogurte",
-                    "secoundary_description": "iogurte",
-                    "price_1": 1.89,
-                    "price_2": 0.49,
-                    "deleted": false
-                }
-            ]
+            "id": 5,
+            "rms": "162738005",
+            "image": "iogurte.png",
+            "dinamic": "X% de desconto no grupo/categoria ",
+            "place": "ESTD_DF",
+            "name": "iogurte",
+            "primary_description": "iogurte",
+            "secoundary_description": "iogurte",
+            "price_1": 1.89,
+            "price_2": 0.49,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 6,
-                    "rms": "162738006",
-                    "image": "ariel.png",
-                    "dinamic": "Oferta simples",
-                    "place": "ESTD_DF",
-                    "name": "ariel",
-                    "primary_description": "ariel",
-                    "secoundary_description": "limpeza",
-                    "price_1": 34.99,
-                    "price_2": 24.99,
-                    "deleted": false
-                }
-            ]
+            "id": 6,
+            "rms": "162738006",
+            "image": "ariel.png",
+            "dinamic": "Oferta simples",
+            "place": "ESTD_DF",
+            "name": "ariel",
+            "primary_description": "ariel",
+            "secoundary_description": "limpeza",
+            "price_1": 34.99,
+            "price_2": 24.99,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 7,
-                    "rms": "162738007",
-                    "image": "papinha.png",
-                    "dinamic": "De X Por Y",
-                    "place": "ESTD_DF",
-                    "name": "papinha",
-                    "primary_description": "papinha",
-                    "secoundary_description": "comida",
-                    "price_1": 5.99,
-                    "price_2": 3.49,
-                    "deleted": false
-                }
-            ]
+            "id": 7,
+            "rms": "162738007",
+            "image": "papinha.png",
+            "dinamic": "De X Por Y",
+            "place": "ESTD_DF",
+            "name": "papinha",
+            "primary_description": "papinha",
+            "secoundary_description": "comida",
+            "price_1": 5.99,
+            "price_2": 3.49,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 8,
-                    "rms": "162738008",
-                    "image": "biscoito.png",
-                    "dinamic": "X% de desconto no grupo/categoria ",
-                    "place": "ESTD_DF",
-                    "name": "biscoito",
-                    "primary_description": "biscoito",
-                    "secoundary_description": "biscoito",
-                    "price_1": 6.49,
-                    "price_2": 5.99,
-                    "deleted": false
-                }
-            ]
+            "id": 8,
+            "rms": "162738008",
+            "image": "biscoito.png",
+            "dinamic": "X% de desconto no grupo/categoria ",
+            "place": "ESTD_DF",
+            "name": "biscoito",
+            "primary_description": "biscoito",
+            "secoundary_description": "biscoito",
+            "price_1": 6.49,
+            "price_2": 5.99,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 9,
-                    "rms": "162738009",
-                    "image": "cocacola.png",
-                    "dinamic": "X% de desconto na Y unidade",
-                    "place": "ESTD_DF",
-                    "name": "Coca Cola",
-                    "primary_description": "Coca Cola",
-                    "secoundary_description": "Coca Cola",
-                    "price_1": 8.49,
-                    "price_2": 7.99,
-                    "deleted": false
-                }
-            ]
+            "id": 9,
+            "rms": "162738009",
+            "image": "cocacola.png",
+            "dinamic": "X% de desconto na Y unidade",
+            "place": "ESTD_DF",
+            "name": "Coca Cola",
+            "primary_description": "Coca Cola",
+            "secoundary_description": "Coca Cola",
+            "price_1": 8.49,
+            "price_2": 7.99,
+            "deleted": false
         },
         {
-            "count": 1,
-            "isBox": false,
-            "products": [
-                {
-                    "id": 10,
-                    "rms": "162738010",
-                    "image": "nestle.png",
-                    "dinamic": "Oferta simples",
-                    "place": "ESTD_DF",
-                    "name": "Nestle Iogurte",
-                    "primary_description": "Nestle Iogurte",
-                    "secoundary_description": "Nestle Iogurte",
-                    "price_1": 4.89,
-                    "price_2": 3.79,
-                    "deleted": false
-                }
-            ]
+            "id": 10,
+            "rms": "162738010",
+            "image": "nestle.png",
+            "dinamic": "Oferta simples",
+            "place": "ESTD_DF",
+            "name": "Nestle Iogurte",
+            "primary_description": "Nestle Iogurte",
+            "secoundary_description": "Nestle Iogurte",
+            "price_1": 4.89,
+            "price_2": 3.79,
+            "deleted": false
         }
     ],
     "places": [
-        { "id": 1, "name": "ESTD_DF" },
-        { "id": 2, "name": "FB_BH" },
-        { "id": 3, "name": "FDS_AM" },
-        { "id": 4, "name": "FDS_CE" },
-        { "id": 5, "name": "FDS_CG" },
-        { "id": 6, "name": "FDS_CTB" },
-        { "id": 7, "name": "FDS_ES" },
-        { "id": 8, "name": "FDS_LDN" },
-        { "id": 9, "name": "FDS_PB" },
-        { "id": 10, "name": "FDS_PE" },
-        { "id": 11, "name": "FDS_RJ" },
-        { "id": 12, "name": "FDS_RN" },
-        { "id": 13, "name": "FDS_UBL" },
-        { "id": 14, "name": "HIPER_GO" },
-        { "id": 15, "name": "HIPER_RS" },
-        { "id": 16, "name": "JFO" },
-        { "id": 17, "name": "TV_PPSJP" },
-        { "id": 18, "name": "TV_RP" },
-        { "id": 19, "name": "YT_SP" }
+        {
+            "id": 1,
+            "name": "ESTD_DF"
+        },
+        {
+            "id": 2,
+            "name": "FB_BH"
+        },
+        {
+            "id": 3,
+            "name": "FDS_AM"
+        },
+        {
+            "id": 4,
+            "name": "FDS_CE"
+        },
+        {
+            "id": 5,
+            "name": "FDS_CG"
+        },
+        {
+            "id": 6,
+            "name": "FDS_CTB"
+        },
+        {
+            "id": 7,
+            "name": "FDS_ES"
+        },
+        {
+            "id": 8,
+            "name": "FDS_LDN"
+        },
+        {
+            "id": 9,
+            "name": "FDS_PB"
+        },
+        {
+            "id": 10,
+            "name": "FDS_PE"
+        },
+        {
+            "id": 11,
+            "name": "FDS_RJ"
+        },
+        {
+            "id": 12,
+            "name": "FDS_RN"
+        },
+        {
+            "id": 13,
+            "name": "FDS_UBL"
+        },
+        {
+            "id": 14,
+            "name": "HIPER_GO"
+        },
+        {
+            "id": 15,
+            "name": "HIPER_RS"
+        },
+        {
+            "id": 16,
+            "name": "JFO"
+        },
+        {
+            "id": 17,
+            "name": "TV_PPSJP"
+        },
+        {
+            "id": 18,
+            "name": "TV_RP"
+        },
+        {
+            "id": 19,
+            "name": "YT_SP"
+        }
     ]
 }
