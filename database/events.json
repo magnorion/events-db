@@ -383,5 +383,22 @@
             "id": 19,
             "name": "YT_SP"
         }
+    ],
+    "log": [
+        {
+            "id": "0aad38aa-5051-41c6-905d-e040a4a5edab",
+            "project": "Gerenciador de Eventos",
+            "user": {
+                "id_user": "e4649de1-7a3d-4e1f-abc6-ce95b48b7cf5",
+                "username": "User",
+                "email": "user@mail.com"
+            },
+            "event_log": {
+                "id_event": 5,
+                "url_screen": "https://app-gerenciador-eventos-dot-br-marketing-images-qa.ue.r.appspot.com/2/diagram",
+                "code_event": "DELETE_PRODUCT",
+                "dt_last_updated": 1633105726000
+            }
+        }
     ]
 }
